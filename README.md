@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Youssef Mohamed Ehab
 
 🎓 CS Student (3rd Year)  
-🛠️ Backend Developer | 🧠 Competitive Programmer
+🛠️ Backend Developer
 
 ---
 
@@ -20,14 +20,6 @@
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-### 🧠 ICPC & Problem Solving
-
-- Instructor & Vice Head @ ICPC SAMS  
-- Strong background in C++ and algorithms  
-- Topics: Prefix Sum, Number Theory, Bitmasks, Graphs, etc.
 
 ---
 
