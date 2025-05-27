@@ -34,4 +34,8 @@
   <a href="https://www.linkedin.com/in/youssef-mohamed-ehab-bab09b295/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/7240">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord"/>
+  </a>
 </p>
