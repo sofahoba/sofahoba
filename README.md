@@ -36,7 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/yourDiscordID">
+  <a href="https://discord.com/users/#7240">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord"/>
   </a>
 </p>
