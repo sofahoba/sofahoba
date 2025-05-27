@@ -25,4 +25,4 @@
 
 ### 📫 Contact Me
 
-[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/youssef-mohamed-ehab-bab09b295/)) • youssefehab204@gmail.com
+[LinkedIn](https://www.linkedin.com/in/youssef-mohamed-ehab-bab09b295/) •
