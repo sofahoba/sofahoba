@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Youssef Mohamed Ehab
 
-🎓 CS Student (3rd Year)  
-🛠️ Backend Developer
+<p style="font-size:20px; font-weight:bold;">
+  🎓 CS Student (3rd Year)<br>
+  🛠️ Java Backend Developer | SpringBoot
+</p>
+
 
 ---
 
