@@ -30,3 +30,22 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohamed-ehab-bab09b295/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefehab204@gmail.com)
+
+
+
+## 📊 GitHub Stats
+
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefehab204&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefehab204&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=youssefehab204&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 👁️ Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=youssefehab204&label=Profile%20Views&color=0e75b6&style=flat)
