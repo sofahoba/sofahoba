@@ -46,6 +46,3 @@
 
 ---
 
-## 👁️ Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sofahoba&label=Profile%20Views&color=0e75b6&style=flat)
