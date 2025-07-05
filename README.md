@@ -28,12 +28,5 @@
 
 ## 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/youssef-mohamed-ehab-bab09b295/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:youssefehab204@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Gmail"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohamed-ehab-bab09b295/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefehab204@gmail.com)
