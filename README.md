@@ -35,17 +35,17 @@
 
 ## 📊 GitHub Stats
 
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefehab204&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefehab204&layout=compact&theme=github_dark&hide_border=true)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofahoba&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofahoba&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=youssefehab204&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sofahoba&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 👁️ Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=youssefehab204&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=sofahoba&label=Profile%20Views&color=0e75b6&style=flat)
