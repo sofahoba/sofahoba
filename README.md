@@ -30,14 +30,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohamed-ehab-bab09b295/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefehab204@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofahoba&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofahoba&layout=compact&theme=github_dark&hide_border=true)
-
 ---
 
 ## 🏆 GitHub Trophies
