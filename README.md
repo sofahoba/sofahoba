@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Youssef Mohamed Ehab
-
 # 💫 About Me:
 🎓 Computer Science Student – 4th Year<br>🛠️ Backend Developer | Specialized in Spring Boot
 
